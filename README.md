@@ -34,6 +34,13 @@ EmailAutomation/
 ├─ requirements.txt # Python dependencies
 └─ README.md
 ```
+### Dataset
+
+The dataset is too large to include in this repository.  
+Download it here: [spam_Emails_data.csv](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification)  
+
+After downloading, place the file in the `data/` folder before running the app or training scripts.
+
 ## Installation
 ### 1. Clone the repository
 
