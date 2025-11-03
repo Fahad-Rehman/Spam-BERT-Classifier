@@ -38,7 +38,7 @@ EmailAutomation/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/Fahad-Rehman/Spam-BERT-Classifier>
 cd EmailAutomation
 ```
 ### 2. Create a virtual environment
