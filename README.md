@@ -41,6 +41,10 @@ Download it here: [spam_Emails_data.csv](https://www.kaggle.com/datasets/meruvul
 
 After downloading, place the file in the `data/` folder before running the app or training scripts.
 
+### Pretrained BERT Model
+
+The trained BERT model is too large for GitHub. Make sure you execute train_bert.py 
+
 ## Installation
 ### 1. Clone the repository
 
